@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
+#EXTINF:-1,COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.aac
+#EXTINF:-1,Onda Cero
+https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
+#EXTINF:-1,Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1,esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+#EXTINF:-1,Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
+#EXTINF:-1,Radio 5 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:-1,LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
+#EXTINF:-1,LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
+#EXTINF:-1,LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac
+#EXTINF:-1,Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1,Cadena 100
+https://cadena100-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac
+#EXTINF:-1,Europa FM
+https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
+#EXTINF:-1,Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Radiolé
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC.aac
+#EXTINF:-1,Radio 3 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1,Radio Clásica RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8

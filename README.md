@@ -1,2 +1,2 @@
 # Radios_Espa-a
-Emisoras radios España
+las emisoras de radios principales de España (obviando las locales)

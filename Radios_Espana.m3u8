@@ -1,38 +1,38 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="cadenaser" tvg-name="Cadena SER" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cadena%20Ser%20logo.svg" group-title="Radios España",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
-#EXTINF:-1 tvg-id="cope" tvg-name="COPE" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20de%20la%20Cadena%20COPE.svg" group-title="Radios España",COPE
-https://flucast09-h-cloud.flumotion.com/cope/net1.aac
-#EXTINF:-1 tvg-id="ondacero" tvg-name="Onda Cero" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Onda%20Cero%20logo.svg" group-title="Radios España",Onda Cero
-https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
-#EXTINF:-1 tvg-id="rne1" tvg-name="Radio Nacional" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RNE%202026.svg" group-title="Radios España",Radio Nacional
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
-#EXTINF:-1 tvg-id="esradio" tvg-name="esRadio" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/EsRadio%20logo.svg" group-title="Radios España",esRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
-#EXTINF:-1 tvg-id="radiomarca" tvg-name="Radio Marca" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RadioMARCA.svg" group-title="Radios España",Radio Marca
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
-#EXTINF:-1 tvg-id="radio5" tvg-name="Radio 5 RNE" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RNE%20Radio%205%202026.svg" group-title="Radios España",Radio 5 RNE
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
-#EXTINF:-1 tvg-id="los40" tvg-name="LOS40" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Los%2040.svg" group-title="Radios España",LOS40
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
-#EXTINF:-1 tvg-id="los40classic" tvg-name="LOS40 Classic" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/LOS40%20Classic.svg" group-title="Radios España",LOS40 Classic
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
-#EXTINF:-1 tvg-id="los40urban" tvg-name="LOS40 Urban" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/LOS40%20Urban.svg" group-title="Radios España",LOS40 Urban
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac
-#EXTINF:-1 tvg-id="kissfm" tvg-name="Kiss FM" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/KISSFM2022.png" group-title="Radios España",Kiss FM
-https://kissfm.kissfmradio.cires21.com/kissfm.mp3
-#EXTINF:-1 tvg-id="cadena100" tvg-name="Cadena 100" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cadena100-2024.svg" group-title="Radios España",Cadena 100
-https://cadena100-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="cadenadial" tvg-name="Cadena Dial" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cadena%20Dial.svg" group-title="Radios España",Cadena Dial
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac
-#EXTINF:-1 tvg-id="europafm" tvg-name="Europa FM" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Europa%20FM%202022%20logo.svg" group-title="Radios España",Europa FM
-https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
-#EXTINF:-1 tvg-id="rockfm" tvg-name="Rock FM" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RockFM%20Logo.svg" group-title="Radios España",Rock FM
-https://rockfm-cope.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="radiole" tvg-name="Radiolé" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Radiole.png" group-title="Radios España",Radiolé
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC.aac
-#EXTINF:-1 tvg-id="radio3" tvg-name="Radio 3 RNE" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RNE%20Radio%203%202026.svg" group-title="Radios España",Radio 3 RNE
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
-#EXTINF:-1 tvg-id="radioclasica" tvg-name="Radio Clásica RNE" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Radio%20Cl%C3%A1sica%202026.svg" group-title="Radios España",Radio Clásica RNE
-https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Cadena SER" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200",Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
+#EXTINF:-1 tvg-name="COPE" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200",COPE
+https://flucast09-h-cloud.flumotion.com/cope/net1.aac
+#EXTINF:-1 tvg-name="Onda Cero" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200",Onda Cero
+https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac
+#EXTINF:-1 tvg-name="Radio Nacional" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200",Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1 tvg-name="esRadio" tvg-logo="https://graph.facebook.com/esradio/picture?width=200&height=200",esRadio
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.aac
+#EXTINF:-1 tvg-name="Radio Marca" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200",Radio Marca
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac
+#EXTINF:-1 tvg-name="Radio 5 RNE" tvg-logo="https://pbs.twimg.com/profile_images/2116820353640964096/JDGVKMUL_200x200.jpg",Radio 5 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r5_madrid_main.m3u8
+#EXTINF:-1 tvg-name="LOS40" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200",LOS40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
+#EXTINF:-1 tvg-name="LOS40 Classic" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200",LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac
+#EXTINF:-1 tvg-name="LOS40 Urban" tvg-logo="https://graph.facebook.com/los40urban/picture?width=200&height=200",LOS40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac
+#EXTINF:-1 tvg-name="Kiss FM" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200",Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+#EXTINF:-1 tvg-name="Cadena 100" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200",Cadena 100
+https://cadena100-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-name="Cadena Dial" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200",Cadena Dial
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac
+#EXTINF:-1 tvg-name="Europa FM" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200",Europa FM
+https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac
+#EXTINF:-1 tvg-name="Rock FM" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200",Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-name="Radiolé" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200",Radiolé
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC.aac
+#EXTINF:-1 tvg-name="Radio 3 RNE" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200",Radio 3 RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1 tvg-name="Radio Clásica RNE" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200",Radio Clásica RNE
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8

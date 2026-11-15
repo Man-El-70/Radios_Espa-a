@@ -1,0 +1,41 @@
+#EXTM3U
+# Lista de television gratuita en espanol. Enlaces publicos; disponibilidad sujeta a cambios.
+
+#EXTINF:-1 tvg-id="La1.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/La_1_logo.svg/512px-La_1_logo.svg.png" group-title="ESPANA | GENERALISTAS",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/La_2_logo.svg/512px-La_2_logo.svg.png" group-title="ESPANA | GENERALISTAS",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Canal_24_Horas_logo.svg/512px-Canal_24_Horas_logo.svg.png" group-title="ESPANA | NOTICIAS",Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="Clan.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Clan_TVE_logo.svg/512px-Clan_TVE_logo.svg.png" group-title="ESPANA | INFANTIL",Clan
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Teledeporte_logo.svg/512px-Teledeporte_logo.svg.png" group-title="ESPANA | DEPORTES",Teledeporte
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 tvg-id="Trece.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Trece_TV_logo.svg/512px-Trece_TV_logo.svg.png" group-title="ESPANA | GENERALISTAS",Trece
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Television_Canaria_logo.svg/512px-Television_Canaria_logo.svg.png" group-title="ESPANA | AUTONOMICOS",Television Canaria
+https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalExtremadura.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Canal_Extremadura_logo.svg/512px-Canal_Extremadura_logo.svg.png" group-title="ESPANA | AUTONOMICOS",Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="CMMTV.es@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CMM_TV_logo.svg/512px-CMM_TV_logo.svg.png" group-title="ESPANA | AUTONOMICOS",CMM TV Castilla-La Mancha
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="InteralmeriaTV.es@SD" tvg-logo="https://i.imgur.com/4ZgZb8n.png" group-title="ESPANA | AUTONOMICOS",Interalmeria TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Andalucia" tvg-logo="https://i.imgur.com/rnzMR9R.png" group-title="ESPANA | AUTONOMICOS",7TV Andalucia
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-id="Canal56.es@SD" tvg-logo="https://i.imgur.com/7ZKk8dM.png" group-title="ESPANA | AUTONOMICOS",Canal 56
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 tvg-id="AlacantiTV.es@SD" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="ESPANA | AUTONOMICOS",Alacanti TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="AMERICA | MEXICO",8NTV Mexico
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="AMERICA | MEXICO",ADN 40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="AMERICA | ARGENTINA",A24 Argentina
+http://138.59.227.20:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/America_TV_%28Nuevo_logo_Junio_2020%29.png/512px-America_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="AMERICA | ARGENTINA",America TV Argentina
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="AgriculturaTV.cl@SD" tvg-logo="https://i.imgur.com/sxrYc3Q.png" group-title="AMERICA | CHILE",Agricultura TV Chile
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/America_Televisi%C3%B3n.svg/512px-America_Televisi%C3%B3n.svg.png" group-title="AMERICA | PERU",America Television Peru
+http://190.93.224.42/AMERICA-TV/index.m3u8
